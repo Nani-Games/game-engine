@@ -3,6 +3,12 @@
 This will be one of our biggest free software: Our own Game Engine!
 Currently we are organizing a little team for that but we are on a good way.
 
+Hint: This is NOT the official repository for the engine. This is just an information center.
+If you wanna know the newest information about the development progress, please join our discord group.
+If there are any namable major updates, they will get posted only there.
+Releases get announced also here in this repo.
+Have a nice day ~ Ceytec
+
 ## Special
 
 We saw that the engines, that are currently on the market are either slow, badly designed, really expensive, not even accessible for the normal developer or too hard for a small team to use. We want to write a small or medium-sized engine that follows the KISS-principle and so is accessible for every user. It should have an easy GUI (We are currently designing it, but the GUI itself is not even started), of course with a dark-design. The engine will be free and open-source. Even before we get to a state where everything is working, we want to plan how to build the engine so it has a good performance. Once we get it to a working state, we want to focus even more on smaller optimizations.
